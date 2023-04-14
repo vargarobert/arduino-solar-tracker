@@ -10,4 +10,4 @@ The tolerance between the sensor pairs can be adjusted by a variable resistor to
 
 ![Sun position](./static/sun_position.webp) ![Solar panel orientation](./static/solar_panel_orientation.jpg)
 
-![Diagram](./static/diagram.jpeg)
+![Diagram](./static/diagram.jpg)
